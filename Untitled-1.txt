@@ -2,3 +2,4 @@ C:\Users\Zoya\Desktop\вскод
 ulitka
 git my love
 push
+add
